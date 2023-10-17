@@ -60,6 +60,7 @@ Descrição: O projeto de Clusterização desta-se por ser meu primeiro primeiro
 Descrição: Utilizei técnicas de visualição de dados, estatística descritiva, geolocalização. Esse foi o meu primeiro projeto de Análise de Dados desenvolvido. Apesar de simples, foi de grande relevancia para o meu desenvolvimento nas habilidades técnicas utilizadas no projeto. 
 Tecnologias utilizadas: Python, Matplotlib, Plotly, Seaborn
 
+
 * [5. Predição do preço de carros usados através de Regressão Linear:](https://github.com/pedromendesjr/projetosDS/blob/main/Projeto_Predi%C3%A7%C3%A3o_de_pre%C3%A7os_de_carros_usados.ipynb)
 
 Descrição: Criei um modelo de previsão de preços de carros usados através de um dataset do Kaggle. Durante o processo, pudemos aperfeições diversas tecnicas de limpaza, feature section, preprocessamento, e entre outras técnicas.
@@ -74,9 +75,11 @@ Descrição: Um painel com os dados obtidos no Our World in Data sobre as aplica
 
 * [1. Análise de Dados: Desenvolvendo Insights com SQL + Python:](https://medium.com/@pedro.lou/an%C3%A1lise-de-dados-desenvolvendo-insights-com-sql-python-badb6ac8cb6f)
 
-* [6. Pandas_dq será sua nova ferramenta de limpeza e pré-processamento de dados.:](https://medium.com/@pedro.lou/pandas-dq-ser%C3%A1-sua-nova-ferramenta-de-limpeza-e-preprocessamento-de-dados-e6932fa3c362)
+* [2. Pandas_dq será sua nova ferramenta de limpeza e pré-processamento de dados.:](https://medium.com/@pedro.lou/pandas-dq-ser%C3%A1-sua-nova-ferramenta-de-limpeza-e-preprocessamento-de-dados-e6932fa3c362)
  
-* [6. Entendendo as métricas ROC Curve e AUC ROC para modelos de classificação em ML.:](https://medium.com/@pedro.lou/entendendo-as-m%C3%A9tricas-roc-curve-e-auc-roc-para-modelos-de-classifica%C3%A7%C3%A3o-em-ml-42094643cc0f) 
+* [3. Entendendo as métricas ROC Curve e AUC ROC para modelos de classificação em ML.:](https://medium.com/@pedro.lou/entendendo-as-m%C3%A9tricas-roc-curve-e-auc-roc-para-modelos-de-classifica%C3%A7%C3%A3o-em-ml-42094643cc0f)
+
+* [4. Humanize: Um overview de como ‘humanizar’ seus dados e deixa-los mais legíveis com Python.:](https://medium.com/@pedro.lou/humanize-um-overview-de-como-humanizar-seus-n%C3%BAmeros-e-deixa-los-mais-leg%C3%ADveis-com-python-b367d59e5f8e) 
 
 
 
