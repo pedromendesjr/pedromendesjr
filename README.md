@@ -79,7 +79,9 @@ Descrição: Um painel com os dados obtidos no Our World in Data sobre as aplica
  
 * [3. Entendendo as métricas ROC Curve e AUC ROC para modelos de classificação em ML.:](https://medium.com/@pedro.lou/entendendo-as-m%C3%A9tricas-roc-curve-e-auc-roc-para-modelos-de-classifica%C3%A7%C3%A3o-em-ml-42094643cc0f)
 
-* [4. Humanize: Um overview de como ‘humanizar’ seus dados e deixa-los mais legíveis com Python.:](https://medium.com/@pedro.lou/humanize-um-overview-de-como-humanizar-seus-n%C3%BAmeros-e-deixa-los-mais-leg%C3%ADveis-com-python-b367d59e5f8e) 
+* [4. Humanize: Um overview de como ‘humanizar’ seus dados e deixa-los mais legíveis com Python.:](https://medium.com/@pedro.lou/humanize-um-overview-de-como-humanizar-seus-n%C3%BAmeros-e-deixa-los-mais-leg%C3%ADveis-com-python-b367d59e5f8e)
+
+* [5. Gráfico Radviz: Entenda como um cabo de guerra ajuda a visualizar dados multidimensionais em uma imagem 2D..:](https://medium.com/@pedro.lou/gr%C3%A1fico-radviz-entenda-como-um-cabo-de-guerra-ajuda-a-visualizar-dados-multidimensionais-em-uma-48e3b67b4d3e) 
 
 
 
