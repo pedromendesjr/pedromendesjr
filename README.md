@@ -43,25 +43,30 @@
 
 <h2 align="left">Projetos</h2>
 
-* [1. Web App de predição de preços com Machine Learning:](https://aptosapp.streamlit.app/Web%20App%20v%201.3)
+* [1. Análise de Dados: Saúde Mental em Números:](https://github.com/pedromendesjr/saude_mental_eba/blob/main/projeto_eba2.ipynb)
+
+Descrição: Os objetivos principais do projeto são: quantificar os dados da amostra e encontrar, caso exista, um perfil demográfico dos indivíduos com sintomas depressivos e identificar possíveis relações entre hábitos sociais e alimentares com reflexo na presença de sintomas depressivos. Para isso, foi realizada uma análise exploratória dos dados e testes de hipóteses com os insights gerados da análise.
+
+
+* [2. Web App de predição de preços com Machine Learning:](https://aptosapp.streamlit.app/Web%20App%20v%201.3)
 
 Descrição: Nesse projeto, utilizamos webscrapping para fazer um raspagem dos dados de imóveis a venda num portal imobiliário para alimentar algoritmos de Machine Learning, a fim de prever o preço de imóveis. Posteriormente, foi feito um web app para que o usuário coloque as informações de um imóvel que queira estimar o valor de venda. Durante o projeto, também foi feito um painel para visualizar os dados com possibilidades de filtros pelo usuário.
 
-* [2. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart/blob/main/heart-classifier.ipynb)
+* [3. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart/blob/main/heart-classifier.ipynb)
 
 Descrição: Nesse projeto, utilizamos algumas técnicas de machine learning e análise estatística para elaborar um projedo de data science. Durante o trabalho, pudemos desenvolver uma análise gráfica dos dados através das bibliotecas mais utilizadas como matplotlib, seaborn e entre outros. Na parte final do projeto, utilizamos validação cruzada para definir alguns parâmetros para os algoritmos de Decision Tree e Random Forest Classifier. Por fim, usamos algumas métricas para comparar a performance dos modelos. 
 
-* [3. Projeto de Clusterização e Análise Exploratória de Clientes de um Mercado](https://github.com/pedromendesjr/cluster-market/blob/main/cluster-market.ipynb)
+* [4. Projeto de Clusterização e Análise Exploratória de Clientes de um Mercado](https://github.com/pedromendesjr/cluster-market/blob/main/cluster-market.ipynb)
 
 Descrição: O projeto de Clusterização desta-se por ser meu primeiro primeiro com dados não supervisionados. Exploramos um dataset de clientes de um mercado com multi canais de venda fazendo uma análise exploratória robusta que nos trouxe alguns insights do negócio. Por fim, utilizamos o algoritmo de machine learning K-Means para segmentar os clientes em clusters e propor algumas sugestões de campanhas de ofertas personalidades para diferentes perfis de clientes. 
 
-* [4. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/hawaii-data/blob/main/hawaii-data.ipynb)
+* [5. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/hawaii-data/blob/main/hawaii-data.ipynb)
 
 Descrição: Utilizei técnicas de visualição de dados, estatística descritiva, geolocalização. Esse foi o meu primeiro projeto de Análise de Dados desenvolvido. Apesar de simples, foi de grande relevancia para o meu desenvolvimento nas habilidades técnicas utilizadas no projeto. 
 Tecnologias utilizadas: Python, Matplotlib, Plotly, Seaborn
 
 
-* [5. Dashboard no Tableau para monitoramento das vacinas da COVID-19:](https://public.tableau.com/views/PaineldaVacinasCOVID-19/Dashboard-VacinasnoMundo?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+* [6. Dashboard no Tableau para monitoramento das vacinas da COVID-19:](https://public.tableau.com/views/PaineldaVacinasCOVID-19/Dashboard-VacinasnoMundo?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 Descrição: Um painel com os dados obtidos no Our World in Data sobre as aplicações das vacinas da COVID-19 no mundo. No projeto, podemos ver a quantidade ministrada em 1a dose, vacinação completa e dose de reforço por continente ou país. Além disso, uma relação entre o PIB per capita e a aplicação de vacinas.
 
