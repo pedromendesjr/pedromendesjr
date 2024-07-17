@@ -52,21 +52,26 @@ Descrição: Os objetivos principais do projeto são: quantificar os dados da am
 
 Descrição: Nesse projeto, utilizamos webscrapping para fazer um raspagem dos dados de imóveis a venda num portal imobiliário para alimentar algoritmos de Machine Learning, a fim de prever o preço de imóveis. Posteriormente, foi feito um web app para que o usuário coloque as informações de um imóvel que queira estimar o valor de venda. Durante o projeto, também foi feito um painel para visualizar os dados com possibilidades de filtros pelo usuário.
 
-* [3. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart/blob/main/heart-classifier.ipynb)
+
+* [3. Dashboard em Power BI: Visão Geral de Vendas:](http://bit.ly/dashboardvendas1)
+
+Descrição: Realizamos a elaboração de um dashboard de vendas com os principais KPI's, visualização de dados, filtragem e segmentação. É possível conferir os principais números como: faturamento, ticket médio, número de vendas segmentando por grupo de produtos, produtos, vendedores, gerentes, ano e etc. Dessa forma, a toma de decisão de um time comercial fica muito mais acertiva, respaldada por resultados reais de fácil interpretação e acesso. 
+
+* [4. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart/blob/main/heart-classifier.ipynb)
 
 Descrição: Nesse projeto, utilizamos algumas técnicas de machine learning e análise estatística para elaborar um projedo de data science. Durante o trabalho, pudemos desenvolver uma análise gráfica dos dados através das bibliotecas mais utilizadas como matplotlib, seaborn e entre outros. Na parte final do projeto, utilizamos validação cruzada para definir alguns parâmetros para os algoritmos de Decision Tree e Random Forest Classifier. Por fim, usamos algumas métricas para comparar a performance dos modelos. 
 
-* [4. Projeto de Clusterização e Análise Exploratória de Clientes de um Mercado](https://github.com/pedromendesjr/cluster-market/blob/main/cluster-market.ipynb)
+* [5. Projeto de Clusterização e Análise Exploratória de Clientes de um Mercado](https://github.com/pedromendesjr/cluster-market/blob/main/cluster-market.ipynb)
 
 Descrição: O projeto de Clusterização desta-se por ser meu primeiro primeiro com dados não supervisionados. Exploramos um dataset de clientes de um mercado com multi canais de venda fazendo uma análise exploratória robusta que nos trouxe alguns insights do negócio. Por fim, utilizamos o algoritmo de machine learning K-Means para segmentar os clientes em clusters e propor algumas sugestões de campanhas de ofertas personalidades para diferentes perfis de clientes. 
 
-* [5. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/hawaii-data/blob/main/hawaii-data.ipynb)
+* [6. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/hawaii-data/blob/main/hawaii-data.ipynb)
 
 Descrição: Utilizei técnicas de visualição de dados, estatística descritiva, geolocalização. Esse foi o meu primeiro projeto de Análise de Dados desenvolvido. Apesar de simples, foi de grande relevancia para o meu desenvolvimento nas habilidades técnicas utilizadas no projeto. 
 Tecnologias utilizadas: Python, Matplotlib, Plotly, Seaborn
 
 
-* [6. Dashboard no Tableau para monitoramento das vacinas da COVID-19:](https://public.tableau.com/views/PaineldaVacinasCOVID-19/Dashboard-VacinasnoMundo?:language=pt-BR&:display_count=n&:origin=viz_share_link)
+* [7. Dashboard no Tableau para monitoramento das vacinas da COVID-19:](https://public.tableau.com/views/PaineldaVacinasCOVID-19/Dashboard-VacinasnoMundo?:language=pt-BR&:display_count=n&:origin=viz_share_link)
 
 Descrição: Um painel com os dados obtidos no Our World in Data sobre as aplicações das vacinas da COVID-19 no mundo. No projeto, podemos ver a quantidade ministrada em 1a dose, vacinação completa e dose de reforço por continente ou país. Além disso, uma relação entre o PIB per capita e a aplicação de vacinas.
 
