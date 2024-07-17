@@ -55,7 +55,7 @@ Descrição: Nesse projeto, utilizamos webscrapping para fazer um raspagem dos d
 
 * [3. Dashboard em Power BI: Visão Geral de Vendas:](http://bit.ly/dashboardvendas1)
 
-Descrição: Realizamos a elaboração de um dashboard de vendas com os principais KPI's, visualização de dados, filtragem e segmentação. É possível conferir os principais números como: faturamento, ticket médio, número de vendas segmentando por grupo de produtos, produtos, vendedores, gerentes, ano e etc. Dessa forma, a toma de decisão de um time comercial fica muito mais acertiva, respaldada por resultados reais de fácil interpretação e acesso. 
+Descrição: Realizamos a elaboração de um dashboard de vendas com os principais KPI's, visualização de dados, filtragem e segmentação. É possível conferir os principais números como: faturamento, ticket médio, número de vendas segmentando por grupo de produtos, produtos, vendedores, gerentes, ano e etc. Dessa forma, a toma de decisão de um time comercial fica muito mais assertiva, respaldada por resultados reais de fácil interpretação e acesso. 
 
 * [4. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart/blob/main/heart-classifier.ipynb)
 
