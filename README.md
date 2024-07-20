@@ -57,15 +57,15 @@ Descrição: Nesse projeto, utilizamos webscrapping para fazer um raspagem dos d
 
 Descrição: Realizamos a elaboração de um dashboard de vendas com os principais KPI's, visualização de dados, filtragem e segmentação. É possível conferir os principais números como: faturamento, ticket médio, número de vendas segmentando por grupo de produtos, produtos, vendedores, gerentes, ano e etc. Dessa forma, a toma de decisão de um time comercial fica muito mais assertiva, respaldada por resultados reais de fácil interpretação e acesso. 
 
-* [4. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart/blob/main/heart-classifier.ipynb)
+* [4. Projeto de detecção de doenças cardíacas através de Random Forest Classifier:](https://github.com/pedromendesjr/classifier-heart)
 
 Descrição: Nesse projeto, utilizamos algumas técnicas de machine learning e análise estatística para elaborar um projedo de data science. Durante o trabalho, pudemos desenvolver uma análise gráfica dos dados através das bibliotecas mais utilizadas como matplotlib, seaborn e entre outros. Na parte final do projeto, utilizamos validação cruzada para definir alguns parâmetros para os algoritmos de Decision Tree e Random Forest Classifier. Por fim, usamos algumas métricas para comparar a performance dos modelos. 
 
-* [5. Projeto de Clusterização e Análise Exploratória de Clientes de um Mercado](https://github.com/pedromendesjr/cluster-market/blob/main/cluster-market.ipynb)
+* [5. Projeto de Clusterização e Análise Exploratória de Clientes de um Mercado](https://github.com/pedromendesjr/cluster-market)
 
 Descrição: O projeto de Clusterização desta-se por ser meu primeiro primeiro com dados não supervisionados. Exploramos um dataset de clientes de um mercado com multi canais de venda fazendo uma análise exploratória robusta que nos trouxe alguns insights do negócio. Por fim, utilizamos o algoritmo de machine learning K-Means para segmentar os clientes em clusters e propor algumas sugestões de campanhas de ofertas personalidades para diferentes perfis de clientes. 
 
-* [6. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/hawaii-data/blob/main/hawaii-data.ipynb)
+* [6. Análise de Dados do Airbnb (Hawaii):](https://github.com/pedromendesjr/hawaii-data)
 
 Descrição: Utilizei técnicas de visualição de dados, estatística descritiva, geolocalização. Esse foi o meu primeiro projeto de Análise de Dados desenvolvido. Apesar de simples, foi de grande relevancia para o meu desenvolvimento nas habilidades técnicas utilizadas no projeto. 
 Tecnologias utilizadas: Python, Matplotlib, Plotly, Seaborn
