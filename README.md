@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Pedro Lourenço Mendes Júnior, formato em Matemática pela Universidade Federal de Santa Catarina e em transição para a área de Dados.</p>
+<p align="left">Meu nome é Pedro Lourenço Mendes Júnior, formato em Matemática pela Universidade Federal de Santa Catarina e em transição para a área de Ciência de Dados.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 Atualmente trabalho como Analista Comercial e me mantenho estudando sobre Python, Estatística, Machine Learning, Análise de Dados, Visualização de Dados, SQL e entre outros tópicos.<br>🎯 Objetivo: Ingressar na carreira de Analista de Dados e impactar nas tomadas de decisão da empresa através dos dados.<br>🎲 Me interesso também por esportes em geral e sobre boardgames. Sou um colecionador e amante dos jogos de tabuleiro modernos.</p>
+<p align="left">📚 Atualmente trabalho como Analista de Dados e me mantenho atualizado sobre Python, Estatística, Machine Learning, Análise de Dados, Visualização de Dados, SQL e entre outros tópicos.<br>🎯 Objetivo: Ingressar na carreira de Cientista de Dados e impactar nas tomadas de decisão da empresa através dos dados.<br>🎲 Me interesso também por esportes em geral e sobre boardgames. Sou um colecionador e amante dos jogos de tabuleiro modernos.</p>
 
 ###
 
